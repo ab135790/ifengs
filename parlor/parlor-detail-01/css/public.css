@@ -1,0 +1,51 @@
+/*浮动*/
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+/*清除浮动*/
+.hides {
+    overflow: hidden;
+}
+.clearfix {
+    height: 0;
+    clear: both;
+}
+/*间距*/
+.mb10 {
+    margin-bottom: 10px;
+}
+.mb20 {
+    margin-bottom: 20px;
+}
+.mb30 {
+    margin-bottom: 30px;
+}
+.mb50 {
+    margin-bottom: 50px;
+}
+.mr20 {
+    margin-right: 20px;
+}
+.mr30 {
+    margin-right: 30px;
+}
+.mr40 {
+    margin-right: 40px;
+}
+/*公共文本*/
+.public-p-lines {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+.public-p-single {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

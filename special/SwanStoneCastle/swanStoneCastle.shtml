@@ -1,0 +1,309 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta content="凤凰,凤凰网,凤凰新媒体,凤凰卫视,凤凰网温州,企业数据库,问答民生,温州新闻,环保创模,旅游,区县风景,城事,调查,排行,经济,房产,财经,活动,城市营销,投资,节庆,中国,高层,访谈" name="keywords">
+    <meta name="description" content="凤凰网浙江温州新闻中心秉承&quot;中华情怀，全球视野，兼容开放，进步力量&quot;的媒体理念，为主流人群提供优质内容与服务，关注温州建设、温州民生、旅游文化资源、招商引资以及县域经济发展，让世界了解温州，让温州走向世界。">
+    <meta name="msapplication-TileColor" content="#8F1C21">
+    <title>文成天鹅堡首届森林康养美食节</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img/logo.png"/>
+    <link rel="stylesheet" href="css/swanstonecastle.css"/>
+    <link rel="stylesheet" href="css/reset.css"/>
+    <link rel="stylesheet" href="css/special-public-detail.css"/>
+    <link rel="stylesheet" href="css/headerOrfooter.css"/>
+    <link rel="stylesheet" href="css/swiper.css"/>
+    <link rel="stylesheet" href="css/backTop.css"/>
+    <style>
+        .main-left-bottom li span{
+            background-color: #657e5a;
+        }
+        .plr {
+            padding: 0 5px;
+        }
+    </style>
+</head>
+<body>
+<!--头部内容-->
+<header class="header minWidths">
+    <div class="header-wrap">
+        <a class="header-wrap-link"><img src="img/wenzhou.png" class="header-wrap-img" alt=""></a>
+        <ul class="header-ul">
+            <li class="header-ul-li"><a href="#"  target="_blank" alt="资讯要闻">资讯要闻</a></li>
+            <li class="header-ul-li"><a href="#"  target="_blank" alt="事件专题">事件专题</a></li>
+            <li class="header-ul-li"><a href="#"  target="_blank" alt="金融财经">金融财经</a></li>
+            <li class="header-ul-li"><a href="#"  target="_blank" alt="房产">房产</a></li>
+            <li class="header-ul-li"><a href="#"  target="_blank" alt="汽车">汽车</a></li>
+            <li class="header-ul-li"><a href="#" target="_blank" alt="乡村振兴">乡村振兴</a></li>
+            <li class="header-ul-li"><a href="#" target="_blank" alt="凤游天下">凤游天下</a></li>
+            <li class="header-ul-li"><a href="#" target="_blank" alt="凤凰会客厅">凤凰会客厅</a></li>
+            <li class="header-ul-li"><a href="#" target="_blank" alt="欧越文化">瓯越文化</a></li>
+        </ul>
+    </div>
+</header>
+<!--banner-->
+<section class="swanStoneCastle-banner minWidths"></section>
+<!--导语-->
+<section class="lead minWidths">
+    <img src="img/daoyu.png" alt="">
+    <p class="lead-content plr">
+        天鹅堡小镇作为文成美丽乡村“一心四片四带”中的一环，与石垟林场、安福寺、铜铃山景区、龙麒源景区等组成“山水奇观
+            寻幽带”，融合森林养生、避暑度假、自然观光、人文古迹、畲乡风情等多种元素。并以阿尔卑斯地区的建筑风格和人文底蕴为定位主题，规划由浙南唯一的室内滑雪场。城堡式养生度假酒店、商业风情小镇、室内恒温、室外天然泳池以及
+        欧式乡村别墅组成了这样一个避暑胜地。
+    </p>
+</section>
+<!--原创稿件-->
+<section class="original minWidths">
+    <div class="original-main">
+        <div class="public-title">
+            <img src="./img/original-title.png" alt="">
+        </div>
+        <div class="plr">
+            <div class="main-left">
+                <dl class="main-left-top">
+                    <dt><a href="javascript:;" class="dt-title"> 7月7日-7月8日 天鹅堡首届森林康养美食节开幕</a></dt>
+                    <dd><p class="dd-content">初夏的七月，蝉鸣声已声声袭耳；玩水、滑雪、游乐的时节悄然而至...温州的小伙伴们，我们来一场森林浴好不好？找个避暑胜地、林中深山感受一番清凉
+                        寻觅一处宁静，何必远行，咱文成就有啊！</p></dd>
+                </dl>
+                <ul class="main-left-bottom">
+                    <li><span>头条</span><a href="javascript:;">活动当天专业养生厨师制作养生菜肴</a></li>
+                    <li><span>头条</span><a href="javascript:;">7月开始悬空恒温泳池正式开放喽！</a></li>
+                    <li><span>头条</span><a href="javascript:;">室内滑雪场不受天气限制，全年室温保持在-2至-5度，是一处四季滑雪的国际标准室内滑雪场，简直就是南方人的福音啊！</a></li>
+                    <li><span>头条</span><a href="javascript:;">网红小姐姐带你游玩景区及天鹅堡内的特色项目</a></li>
+                </ul>
+            </div>
+            <div class="main-right">
+                <ul class="swiper-wrapper">
+                    <li class="swiper-slide">
+                        <img class="swipers-img" src="img/scenery-04.png" alt="">
+                        <span class="main-right-li-txt">美食小吃</span>
+                    </li>
+                    <li class="swiper-slide">
+                        <img class="swipers-img" src="img/scenery-09.png" alt="">
+                        <span class="main-right-li-txt">度假酒店</span>
+                    </li>
+                    <li class="swiper-slide">
+                        <img class="swipers-img" src="img/scenery-14.png" alt="">
+                        <span class="main-right-li-txt">悬空无边际恒温泳池</span>
+                    </li>
+                    <li class="swiper-slide">
+                        <img class="swipers-img" src="img/scenery-16.png" alt="">
+                        <span class="main-right-li-txt">室内滑雪场</span>
+                    </li>
+                    <li class="swiper-slide">
+                        <img class="swipers-img" src="img/scenery-18.png" alt="">
+                        <span class="main-right-li-txt">温泉区</span>
+                    </li>
+                </ul>
+                <div class="swiper-button-prev swiper_btn"></div>
+                <div class="swiper-button-next swiper_btn"></div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--文成天鹅堡-->
+<section class="wencheng minWidths">
+    <div class="wencheng-container">
+        <div class="public-title">
+            <img src="img/Great-beauty.png" alt="">
+        </div>
+        <div class="wencheng-box">
+            <div class="main-sub">
+                <ul  class="mian-left">
+                    <li class="mian-left-li active">
+                        <video width="850px" controls height="500px" src="mp4/TianEBao1~1.mp4"></video>
+                        <div class="video_name_share">
+                            <div class="video_name">文成-天鹅堡康养美食节</div>
+                        </div>
+                    </li>
+                </ul>
+                <div class="video-list">
+                    <ul class="content">
+                        <li class="mCSB_container">
+                            <dl class="mCSB_container-dl">
+                                <dt class="mCSB_container-dt"><a href="javascript:;" class="mCSB_container-link"><img src="img/20180709110601.png" alt=""></a></dt>
+                                <dd class="mCSB_container-dd"><a href="javascript:;" class="mCSB_container-link"><span>文成天鹅堡康养美食节</span></a></dd>
+                            </dl>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--项目赏析-->
+<section class="appreciation minWidths">
+    <div class="appreciation-container">
+        <div class="public-title">
+            <img src="./img/appreciation.png" alt="">
+        </div>
+        <ul class="appreciation-ul plr">
+            <li class="appreciation-ul-content">
+                <div class="content-left">
+                    <h3 class="content-left-title">美食小吃不可缺</h3>
+                    <p class="content-left-txt">蒙古烤肉、面筋王、烤鱿鱼、铁板豆腐、旋风薯塔、芒果杯、无骨鸡柳、黄金虾球、凉皮、萝卜牛杂...近20种小吃任你挑选！总有一款是你的爱~</p>
+                </div>
+                <div class="content-right">
+                    <img class="content-right-img" src="img/scenery-04.png" alt="">
+                    <img class="content-right-img" src="img/scenery-05.png" alt="">
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-right">
+                    <img class="content-right-img" src="img/scenery-06.png" alt="">
+                    <img class="content-right-img" src="img/scenery-07.png" alt="">
+                </div>
+                <div class="content-left">
+                    <h3 class="content-left-title">吃烤全羊看世界</h3>
+                    <p class="content-left-txt">当夜幕降临时还有烤全羊宴！现场特邀专业厨师，秘制美味烤全羊，为你带来别具风味的美食盛宴。...吃着烤全羊喝着啤酒大家一起看世界杯是不是很有激情和乐趣啊！</p>
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-left">
+                    <h3 class="content-left-title">精心烹制的养生美食</h3>
+                    <p class="content-left-txt">活动当天专业养生厨师制作养生菜肴，让你在玩的开心的同时吃的放心，健康，让身心得到彻底的放松</p>
+                </div>
+                <div class="content-right">
+                    <img class="content-right-img" src="img/scenery-08.png" alt="">
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-right">
+                    <img class="content-right-img" src="img/scenery-10.png" alt="">
+                    <img class="content-right-img" src="img/scenery-11.png" alt="">
+                </div>
+                <div class="content-left">
+                    <h3 class="content-left-title">天鹅堡养生度假酒店</h3>
+                    <p class="content-left-txt">文成天鹅堡养生度假酒店坐落于天鹅堡小镇度假区内，地处素有“避暑胜地” “天然氧吧”美誉的文成县石垟森林公园。</p>
+                    <p class="content-left-txt">度假区配套高尔夫，商业风情小镇，室内恒温室外天然泳池，这里远离城市的喧嚣，拥揽秀美山水而蕴藏丰富的风景，可感知静谧的心灵，让生活变得宁静、舒适~</p>
+                    <p class="content-left-txt">酒店共有五层，客房内部以高雅灰色调为主，素雅中见华丽，自然中透露着温馨。为客人提供多种选择的精致房型~</p>
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-left">
+                    <h3 class="content-left-title">别墅区</h3>
+                    <p class="content-left-txt">天鹅堡别墅群区域，位于天鹅堡度假酒店后方一块狭长又宽广的区域。度假别墅多达30余栋。每一独栋风格各异，但又整齐划一，内部都配备专人打理。</p>
+                    <p class="content-left-txt">别墅区域侧方设有露天泳池，四周绿树成荫，每到夏季，这里是最热闹的时刻，而到了冬季则成为一道亮丽的风景线~</p>
+                </div>
+                <div class="content-right">
+                    <img class="content-right-img" src="img/scenery-02.png" alt="">
+                    <img class="content-right-img" src="img/scenery-12.png" alt="">
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-right">
+                    <img class="content-right-img" src="img/scenery-14.png" alt="">
+                </div>
+                <div class="content-left">
+                    <h3 class="content-left-title">悬空无边际恒温泳池</h3>
+                    <p class="content-left-txt">泳池建于度假酒店盘山悬崖处，采取露天无边际设。泳池地下为室内恒温泳池，悬空处和地面有20米落差，两泳池底部均镶嵌透明玻璃，类似玻璃栈道惊险刺激。喜欢刺激的朋友们不要错过！</p>
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-left">
+                    <h3 class="content-left-title">天鹅堡室内滑雪场</h3>
+                    <p class="content-left-txt">天鹅堡室内滑雪场不受天气限制，全年室温保持在-2至-5度之间，是一处可四季滑雪的国际标准室内滑雪场，简直就是南方人的福音啊！</p>
+                </div>
+                <div class="content-right">
+                    <img class="content-right-img" src="img/scenery-15.png" alt="">
+                    <img class="content-right-img" src="img/scenery-16.png" alt="">
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-right">
+                    <img class="content-right-img" src="img/scenery-17.png" alt="">
+                    <img class="content-right-img" src="img/scenery-18.png" alt="">
+                </div>
+                <div class="content-left">
+                    <h3 class="content-left-title">天鹅堡温泉区</h3>
+                    <p class="content-left-txt">天鹅堡温泉度假区，坐落于盘旋的小山坡上。独具特色，青蓝色的石块上深深雕刻着“天鹅堡温泉”，穿过整个石窟溶洞就能到达。</p>
+                    <p class="content-left-txt">滑完雪后浸于温热清澈的泉池中，耳听四方音乐，身心真的是能得到彻底的放松！</p>
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-left">
+                    <h3 class="content-left-title">超值活动套票</h3>
+                    <p class="content-left-txt">活动单——消费价格</p>
+                    <p class="content-left-txt">酒店住宿9折、餐饮9折、温泉滑雪6折、景区门票6折</p>
+                </div>
+                <div class="content-right">
+                    <img class="content-right-img" src="img/scenery-19.png" alt="">
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>
+<!--高清图集-->
+<section class="Hd-atlas minWidths">
+    <div class="Hd-atlas-container">
+        <div class="public-title">
+            <img src="./img/HD-Aggregate.png" alt="">
+        </div>
+        <div class="swipers">
+            <ul class="swiper-wrapper">
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="img/20180709110601.png" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="img/IMG_0660.png" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="img/IMG_4411.png" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="img/IMG_4428.png" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="img/IMG_0617.png" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="img/223122.png" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="img/114735.png" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="img/IMG_0617.png" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="img/IMG_4355.png" alt="">
+                </li>
+            </ul>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-prev swiper_btn"></div>
+            <div class="swiper-button-next swiper_btn"></div>
+        </div>
+    </div>
+</section>
+<footer class="footer minWidths">
+    <div class="newCityFooter">
+        <span style="color:red;">凤凰网城市联盟监督电话：010-60675241&nbsp;&nbsp;监督及意见反馈邮箱：gaoshan@ifeng.com</span>
+    </div>
+    <div class="footlink">
+        <div class="fk_l">
+            <a href="http://www.ifeng.com/corp/about/intro/" target="_blank">凤凰新媒体介绍</a>
+            <a href="http://ir.ifeng.com/" target="_blank">投资者关系 Investor Relations</a>
+            <a href="http://www.ifeng.com/corp/ad/" target="_blank">广告服务</a>
+            <a href="http://career.ifeng.com/" target="_blank">诚征英才</a>
+            <a href="http://www.ifeng.com/corp/privacy/" target="_blank">保护隐私权</a>
+            <a href="http://www.ifeng.com/corp/exemption/" target="_blank">免责条款</a>
+            <a href="#" target="_blank">法律顾问</a>
+            <a href="http://www.ifeng.com/corp/feedback/" target="_blank">意见反馈</a>
+            <a href="http://phtv.ifeng.com/intro/" target="_blank">凤凰卫视介绍</a>
+        </div>
+    </div>
+    <div class="copyright">
+        <span>凤凰新媒体&nbsp;版权所有</span>&nbsp;&nbsp;&nbsp;&nbsp;Copyright © 2017 Phoenix New Media Limited All Rights Reserved.
+    </div>
+</footer>
+<script >
+    if(typeof jQuery == 'undefined') {
+        document.write('<script type="text/javascript" src="js/jquery-3.3.1.min.js"><\/script>');
+    }
+</script>
+<script src="js/swiper-4.5.0.min.js"></script>
+<script src="js/compatibility.js"></script>
+<script src="js/special-public-detail.js"></script>
+<script src="js/backTop.js"></script>
+</body>
+</html>

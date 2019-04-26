@@ -1,0 +1,125 @@
+a {
+    color: #333;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+/*头部信息*/
+.header {
+    width: 100%;
+    height: 36px;
+    background: #fff;
+    border-bottom: 1px solid #d9d9d9;
+}
+.header-wrap {
+    width: 1000px;
+    height: 36px;
+    line-height: 36px;
+    text-align: left;
+    margin: 0 auto;
+    clear: both;
+}
+.header-wrap-link {
+    display: inline-block;
+    width: 140px;
+    height: 30px;
+    padding: 5px;
+    box-sizing: content-box;
+}
+.header-wrap-img {
+    width: 100%;
+    height: 100%;
+}
+.header-ul {
+    float: right;
+    width: 550px;
+}
+.header-ul-li {
+    position: relative;
+    float: left;
+    padding: 0 8px;
+    list-style: none;
+    line-height: 36px;
+    text-decoration: none;
+}
+.header-ul-li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    font-size: 12px;
+    color: #666;
+}
+.header-ul-li a:after {
+    content: '';
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 12px;
+    width: 1px;
+    height: 40%;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.header-ul-li:last-child a:after {
+    content: '';
+    background: none;
+}
+/*footer*/
+.footer {
+    border-top: 1px solid #eee;
+}
+.newCityFooter {
+    color: #666;
+    clear: both;
+    text-align: center;
+    line-height: 24px;
+    font-family: Arial, simsun;
+    font-size: 12px;
+    margin: 0 auto;
+}
+.footlink {
+    color: #666;
+    height: 28px;
+    line-height: 28px;
+    overflow: hidden;
+}
+.copyright {
+    font-family: Arial;
+    color: #666;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    overflow: hidden;
+}
+.fk_l {
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.copyright,
+.fk_l a {
+    color: #333;
+    font-size: 12px;
+    position: relative;
+}
+.fk_l a:hover {
+    color: #f84143;
+    text-decoration: underline;
+}
+.fk_l a:after {
+    content: '';
+    position: absolute;
+    right: -20px;
+    top: 8px;
+    width: 1px;
+    height: 50%;
+    background-color: #ddd;
+}
+.fk_l a:last-child:after {
+    content: '';
+    width: 0;
+    height: 0;
+}
+.newCityFooter { color:#ddd; clear:both; text-align:center; line-height:24px; font-family:Arial, simsun; font-size:12px;margin:0 auto; }

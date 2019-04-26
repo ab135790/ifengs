@@ -1,0 +1,309 @@
+.minWidths {
+    min-width: 1000px;
+}
+.plr {
+    padding: 0 5px;
+}
+.banner {
+    width: 100%;
+    background: url(../img/banner.png) no-repeat center 0;
+    margin-bottom: 20px;
+    height: 535px;
+}
+.title {
+    width: 1000px;
+    height: 55px;
+    margin: 20px auto;
+}
+.title img {
+    width:100%;
+    height: 100%;
+}
+.part {
+    width: 1000px;
+    margin: 0 auto;
+}
+.part1,.part2,.part3 {
+    margin-bottom: 60px;
+}
+/*第一部分内容*/
+.part1 h3{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px 0;
+    font-family: 'Microsoft YaHei';
+}
+/*文本内容*/
+.part1-txt {
+    text-indent: 30px;
+    font-size: 16px;
+    line-height: 2.5;
+    margin-bottom: 20px;
+    font-family: 'Microsoft YaHei';
+}
+.part1-img {
+    width: 100%;
+    height: 550px;
+    text-align: center;
+}
+/*第三部分内容*/
+.part2-top {
+    padding: 20px 50px 40px 230px;
+    background: url(../img/part3dybg.jpg) no-repeat 60px 0;
+    font-family: 'Microsoft YaHei';
+}
+.part2-top p {
+    margin-bottom:  10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: 'Microsoft YaHei';
+}
+.part2-bottom {
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    padding: 100px 0;
+    background: url(../img/part3bg.jpg) no-repeat 60px 0;
+}
+.bottom-text {
+    width: 320px;
+    height: 320px;
+    padding: 60px 20px;
+    border-radius: 50%;
+    background-color: #e64c5a;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Microsoft YaHei';
+}
+.bottom-text-title {
+    width: 100%;
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: 'Microsoft YaHei';
+}
+.bottom-text:hover {
+    background-color: #333;
+}
+.bottom-text-active {
+    background-color: #333;
+}
+.bottom-text-txt {
+    font-size: 16px;
+    line-height: 1.5;
+    text-indent: 10px;
+    margin-bottom: 8px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    white-space: normal !important;
+    word-wrap: break-word;
+    font-family: 'Microsoft YaHei';
+}
+.part2-content {
+    width: 100%;
+    height: 500px;
+    border: 1px solid;
+}
+.part2-content-box {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    overflow-y: scroll;
+}
+.part2-content-box-li {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+.box-li-ul {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.box-li-ul .li-item {
+    width: 33.3%;
+    text-align: center;
+}
+.li-item img {
+    border-radius: 5px;
+}
+.li-item h3 {
+    padding: 10px 0;
+    font-family: 'Microsoft YaHei';
+}
+/*第三部分内容*/
+.part3-txt {
+    background: url(../img/china65_62.jpg) no-repeat;
+    padding: 40px 90px;
+    height: 150px;
+    line-height: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    white-space: normal !important;
+    word-wrap: break-word;
+    font-family: 'Microsoft YaHei';
+}
+/*第四部分轮播*/
+.part4 {
+    border: 1px solid rgb(211,211,211);
+}
+.part4 .swiper-slide img {
+    width: 100%;
+    height: 200px;
+}
+/*第五部分内容*/
+.part5 {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.p1-content {
+    border: 5px solid rgb(211,211,211);
+    border-radius: 5px;
+}
+.p1-nav {
+    height: 50px;
+    border: solid 1px rgb(211,211,211);
+    margin-bottom: 20px;
+}
+.p1-nav .p1-nav-active {
+    color: #fff;
+    background-color: rgb(211,211,211);
+}
+/*标题 '往期回顾，宣传视频'*/
+.review {
+    width: 50%;
+    height: 50px;
+    float: left;
+    line-height: 50px;
+    text-align: center;
+    font-size: 34px;
+    cursor: pointer;
+}
+.p1-box-right,
+.p1-box-left {
+    width: 100%;
+    overflow-y: scroll;
+    -ms-overflow-y: scroll;
+    height: 342px;
+}
+.p1-box-left .item {
+    width: 97%;
+    height: 342px;
+    border: solid 1px #E1E1E1;
+    position: relative;
+    margin-bottom: 10px;
+}
+.p1-box-left .item .item-img {
+    float: left;
+    display: inline-block;
+    width: 500px;
+    height: 342px;
+}
+.p1-box-left .item .item-img img {
+    width: 100%;
+    height: 100%;
+}
+.p1-box-left .item .nper {
+    position: absolute;
+    right: 50px;
+    top: 50%;
+    font-size: 21px;
+    margin-top: -15px;
+}
+.p1-box-left .item .nper a{
+    color: #212121;
+    position: relative;
+    z-index: 10;
+}
+.p1-box-left .item .item-txt {
+    width: 320px;
+    height: 342px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 40px;
+    font-size: 16px;
+    line-height: 26px;
+    display: table;
+}
+.p1-box-left .item .item-txt p{
+    display: table-cell;
+    text-align: left;
+    text-indent: 38px;
+    width: 100%;
+    line-height: 1.5;
+    Letter-spacing: 3px;
+    font-family: 'Microsoft YaHei';
+}
+.p1-box-left .item .square {
+    position: absolute;
+    right: -19px;
+    top: 162px;
+    width: 37px;
+    height: 15px;
+}
+.p1-box-right .item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 1px solid;
+    padding: 10px;
+}
+.p1-box-right .item .item-title {
+    position: relative;
+    flex-grow: 1;
+    text-align: center;
+}
+.p1-box-right .item .item-title:before,
+.p1-box-right .item .item-title:after {
+    content: '';
+    position: absolute;
+    width: 25%;
+    height: 10px;
+    top: 50%;
+    margin-top: -3px;
+}
+.p1-box-right .item .item-title:before {
+    background: -webkit-linear-gradient(left,rgba(0, 0, 0, 0) 10%, rgba(211,211,211, 0.8) 80%);
+    background: -o-linear-gradient(right, rgba(0, 0, 0, 0) 10%, rgba(211,211,211, 0.8) 80%); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(right, rgba(0, 0, 0, 0) 10%, rgba(211,211,211, 0.8) 80%); /* Firefox 3.6 - 15 */
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 10%, rgba(211,211,211, 0.8) 80%);  /* 标准的语法（必须放在最后） */
+    left: 20%;
+}
+.p1-box-right .item .item-title:after {
+    background: -webkit-linear-gradient(right,rgba(0, 0, 0, 0) 10%, rgba(211,211,211, 0.8) 80%);
+    background: -o-linear-gradient(left, rgba(0, 0, 0, 0) 10%, rgba(211,211,211, 0.8) 80%); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(left, rgba(0, 0, 0, 0) 10%, rgba(211,211,211, 0.8) 80%); /* Firefox 3.6 - 15 */
+    background: linear-gradient(to left, rgba(0, 0, 0, 0) 10%, rgba(211,211,211, 0.8) 80%);  /* 标准的语法（必须放在最后） */
+    right: 20%;
+}
+.p2-txt-logo img,
+.p1-box-left .item .square img {
+    width: 100%;
+    height: 100%;
+}
+.box {
+    display: none;
+}
+/*当前的单位显示*/
+.active {
+    display: block;
+}

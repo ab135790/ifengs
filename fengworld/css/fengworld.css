@@ -1,0 +1,278 @@
+a {
+    display: inline-block;
+    color: #666;
+}
+.minWidths {
+    min-width: 1000px;
+}
+.clearfix {
+    content: '';
+    clear: both;
+}
+.fengworld-banner {
+    width: 100%;
+    height: 520px;
+    background: url(../img/fengworld-banner1.jpg) no-repeat center;
+}
+.hearsay,
+.fengworld-main,
+.advertisement {
+    width: 1000px;
+    margin: 10px auto 30px;
+}
+.fengworld-main {
+    margin-bottom: 50px;
+}
+.fengworld-main-div{
+    text-align: right;
+    position: relative;
+}
+.fengworld-main-div img {
+    height: 85px;
+}
+.logo {
+    position: absolute;
+    top:  0;
+    left: 0;
+    width: 260px;
+    height: 55px;
+}
+.logo img {
+    width: 100%;
+    height: 100%;
+}
+.fengworld-main-div:after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 52px;
+    width: 93%;
+    height: 2px;
+    background-color: #f00
+}
+.advertisement {
+    height: 80px;
+}
+.main-content {
+    width: 100%;
+}
+.title {
+    margin-bottom: 20px;
+}
+.main-content-left {
+    width: 640px;
+    height: 425px;
+    float: left;
+}
+.main-content-left .slides li{
+    position: relative;
+}
+.main-content-right {
+    float: right;
+}
+.slide-link {
+    width: 632px;
+    height: 431px;
+}
+/*轮播内置样式设置*/
+/*---------------------------------------*/
+.flex-control-nav li {
+    margin: 0 2px;
+}
+.flex-control-nav {
+    width: auto;
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+}
+.flex-control-paging li a {
+    width: 7px;
+    height: 7px;
+    background: #fff;
+    background: rgba(255, 255, 255, 1);
+}
+.flex-control-paging li a.flex-active {
+    border: 1px solid #F5F5F5;
+    box-sizing: content-box;
+}
+/*轮播左右箭头样式*/
+.flex-direction-nav a {
+    background: url(../img/black_LR.png) no-repeat -3px -8px;
+    width: 20px;
+    height: 40px;
+    margin: -20px 0 0;
+    top: 50%;
+}
+.flex-direction-nav a.flex-next:before,
+.flex-direction-nav a:before {
+    content: ''
+}
+.flex-direction-nav a.flex-next {
+    background-position: 90% -8px;
+}
+/*--------------------------------------------*/
+.main-content-left .slide-link img {
+    width: 100%;
+    height: 100%;
+}
+.slide-txt {
+    position: absolute;
+    left: 0;
+    bottom: 3px;
+    width: 100%;
+    background: rgba(0,0,0,.6);
+    padding: 10px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 800;
+    z-index: 9;
+}
+.main-content-right {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+    height: 420px;
+}
+.main-content-right::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+    background-color: #F5F5F5;
+}
+.main-content-right::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+    background: #535353;
+}
+.right-list {
+    padding: 5px;
+}
+.right-list .h2 {
+    padding: 1px 0 8px;
+}
+.right-list .h2 a {
+    font-family: Micosoft yahei;
+    font-size: 17px;
+    color: #333;
+    font-weight: bold;
+}
+.right-list .box-txt {
+    color: #666;
+    line-height: 20px;
+}
+.right-list .box-txt p {
+    padding-bottom: 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    word-wrap: break-word;
+}
+.right-list .box-txt a{
+    color: #ba2636;
+    font-size: 12px;
+}
+
+.right-list .box-txt a:hover,
+.right-list .h2 a:hover {
+    text-decoration: underline;
+    color: #ba2636;
+}
+.main-content-bottom {
+    position: relative;
+    margin-bottom: 80px;
+}
+.main-content-bottom .title {
+    width: 100%;
+}
+.main-content-bottom-title {
+    height: 85px;
+}
+.bottom-title {
+    display: flex;
+}
+.bottom-title li{
+    width: 33%;
+    padding: 0 10px;
+}
+.bottomPic {
+    position: relative;
+    width: 100%;
+    padding-top: 65%;
+    overflow: hidden;
+}
+.bottomPic img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 200px;
+    transform: rotate(45deg) scale(2);
+    transition: all .5s;
+}
+.bottomPic img:hover {
+    transform: rotate(0deg) scale(1,1);
+
+}
+.bottom-title li a{
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    padding: 15px 0;
+}
+.bottom-title li p {
+    color: #666;
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 28px;
+}
+.main-content-bottom .btnMore {
+    position: absolute;
+    bottom: -50px;
+    left: 50%;
+    margin-left: -75px;
+    font-size: 14px;
+    color: #fff;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: 600;
+    background: #f2994a;
+    padding: 7px 20px;
+    border-radius: 35px;
+    cursor: pointer;
+}
+.btnMore:hover {
+    text-decoration: underline;
+}
+.hearsay-main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hearsay .title {
+    margin-bottom: 30px;
+}
+.hearsay-main li {
+    width:145px;
+    height: 225px;
+    overflow: hidden;
+}
+.hearsay-main img {
+    width: 300px;
+    height: 225px;
+}
+.flexible {
+    animation: flexible .5s forwards;
+    box-shadow: 1px 1px 3px 1px rgba(6, 6, 6, 0.4);
+}
+@keyframes flexible {
+    0% {
+        transform: scale(1, 1);
+    }
+    100% {
+        transform: scale(2, 1.1);
+    }
+}

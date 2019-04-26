@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta content="凤凰,凤凰网,凤凰新媒体,凤凰卫视,凤凰网温州,企业数据库,问答民生,温州新闻,环保创模,旅游,区县风景,城事,调查,排行,经济,房产,财经,活动,城市营销,投资,节庆,中国,高层,访谈" name="keywords">
+    <meta name="description" content="凤凰网浙江温州新闻中心秉承&quot;中华情怀，全球视野，兼容开放，进步力量&quot;的媒体理念，为主流人群提供优质内容与服务，关注温州建设、温州民生、旅游文化资源、招商引资以及县域经济发展，让世界了解温州，让温州走向世界。">
+    <meta name="msapplication-TileColor" content="#8F1C21">
+    <title>好嗨呦！温州鹿城马拉松震撼来袭，环岛赛道，跑团大战，独特体验！明天起开始报名！</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img/logo.png"/>
+    <link rel="stylesheet" href="css/reset.css"/>
+    <link rel="stylesheet" href="css/special-public-detail.css"/>
+    <link rel="stylesheet" href="css/marathon.css"/>
+    <link rel="stylesheet" href="css/headerOrfooter.css"/>
+    <link rel="stylesheet" href="css/swiper.css"/>
+    <link rel="stylesheet" href="css/backTop.css"/>
+</head>
+<body>
+<!--头部内容-->
+<header class="header minWidths">
+    <div class="header-wrap">
+        <a class="header-wrap-link"><img src="img/wenzhou.png" class="header-wrap-img" alt=""></a>
+        <ul class="header-ul">
+            <li class="header-ul-li"><a href=""  target="_blank" alt="资讯要闻">资讯要闻</a></li>
+            <li class="header-ul-li"><a href="specialone/specialone.shtml"  target="_blank" alt="事件专题">事件专题</a></li>
+            <li class="header-ul-li"><a href=""  target="_blank" alt="金融财经">金融财经</a></li>
+            <li class="header-ul-li"><a href=""  target="_blank" alt="房产">房产</a></li>
+            <li class="header-ul-li"><a href=""  target="_blank" alt="汽车">汽车</a></li>
+            <li class="header-ul-li"><a href="rural/rural.shtml" target="_blank" alt="乡村振兴">乡村振兴</a></li>
+            <li class="header-ul-li"><a href="fengworld/fengworld.shtml" target="_blank" alt="凤游天下">凤游天下</a></li>
+            <li class="header-ul-li"><a href="parlor/parlor.shtml" target="_blank" alt="凤凰会客厅">凤凰会客厅</a></li>
+            <li class="header-ul-li"><a href="ouyueculture/ouyueculture.shtml" target="_blank" alt="欧越文化">瓯越文化</a></li>
+        </ul>
+    </div>
+</header>
+<!--banner-->
+<section class="marathon-banner minWidths"></section>
+<!--导语-->
+<section class="lead minWidths">
+    <img src="img/daoyu.png" alt="">
+    <p class="lead-content plr">
+        4月4日，鹿岛万象天地2019温州七都半程马拉松新闻发布会正式召开。发布会上，组委会公布了鹿岛万象天地2019温州七都半程马拉松的赛况说明、赛道等赛事元素。5月12日将在浙江温州鹿城区七都岛，鸣枪开赛！
+    </p>
+</section>
+<!--珀莱雅-->
+<section class="wencheng minWidths">
+    <div class="wencheng-container">
+        <div class="public-title">
+            <img src="img/Great-beauty.png" alt="">
+        </div>
+        <div class="wencheng-box">
+            <div class="main-sub">
+                <ul  class="mian-left">
+                    <li class="mian-left-li active">
+                        <img src="http://p2.ifengimg.com/fck/2019_14/ba6a03d7d09521a_w485_h245.gif" width="850px" height="500px" alt="你酷爱运动吗？你热爱跑步吗？马拉松见证奔跑的魅力。" title="你酷爱运动吗？你热爱跑步吗？马拉松见证奔跑的魅力。">
+                        <div class="video_name_share">
+                            <div class="video_name">你酷爱运动吗？你热爱跑步吗？马拉松见证奔跑的魅力。</div>
+                        </div>
+                    </li>
+                    <li class="mian-left-li">
+                        <img src="http://p2.ifengimg.com/fck/2019_14/8c8a684f24dc884_w432_h242.gif" width="850px" height="500px" alt="它是温州市的“城市新区”，定位为生态之岛、魅力之岛，它，就是七都！" title="它是温州市的“城市新区”，定位为生态之岛、魅力之岛，它，就是七都！">
+                        <div class="video_name_share">
+                            <div class="video_name">它是温州市的“城市新区”，定位为生态之岛、魅力之岛，它，就是七都！</div>
+                        </div>
+                    </li>
+                    <li class="mian-left-li">
+                        <img src="http://p2.ifengimg.com/fck/2019_14/0ba5be574c505de_w470_h262.gif" width="850px" height="500px" alt="鹿岛万象天地2019温州七都半程马拉松" title="鹿岛万象天地2019温州七都半程马拉松">
+                        <div class="video_name_share">
+                            <div class="video_name">鹿岛万象天地2019温州七都半程马拉松</div>
+                        </div>
+                    </li>
+                </ul>
+                <div class="video-list">
+                    <ul class="content">
+                        <li class="mCSB_container">
+                            <dl class="mCSB_container-dl">
+                                <dt class="mCSB_container-dt"><a href="javascript:;" class="mCSB_container-link" alt="你酷爱运动吗？你热爱跑步吗？马拉松见证奔跑的魅力。" title="你酷爱运动吗？你热爱跑步吗？马拉松见证奔跑的魅力。"><img src="http://p2.ifengimg.com/fck/2019_14/ba6a03d7d09521a_w485_h245.gif" alt=""></a></dt>
+                                <dd class="mCSB_container-dd"><a href="javascript:;" class="mCSB_container-link" alt="你酷爱运动吗？你热爱跑步吗？马拉松见证奔跑的魅力。" title="你酷爱运动吗？你热爱跑步吗？马拉松见证奔跑的魅力。"><span>你酷爱运动吗？你热爱跑步吗？马拉松见证奔跑的魅力。</span></a></dd>
+                            </dl>
+                        </li>
+                        <li class="mCSB_container">
+                            <dl class="mCSB_container-dl">
+                                <dt class="mCSB_container-dt"><a href="javascript:;" class="mCSB_container-link" alt="它是温州市的“城市新区”，定位为生态之岛、魅力之岛，它，就是七都！" title="它是温州市的“城市新区”，定位为生态之岛、魅力之岛，它，就是七都！"><img src="http://p2.ifengimg.com/fck/2019_14/8c8a684f24dc884_w432_h242.gif" alt=""></a></dt>
+                                <dd class="mCSB_container-dd"><a href="javascript:;" class="mCSB_container-link" alt="它是温州市的“城市新区”，定位为生态之岛、魅力之岛，它，就是七都！" title="它是温州市的“城市新区”，定位为生态之岛、魅力之岛，它，就是七都！"><span>它是温州市的“城市新区”，定位为生态之岛、魅力之岛，它，就是七都！</span></a></dd>
+                            </dl>
+                        </li>
+                        <li class="mCSB_container">
+                            <dl class="mCSB_container-dl">
+                                <dt class="mCSB_container-dt"><a href="javascript:;" class="mCSB_container-link" alt="鹿岛万象天地2019温州七都半程马拉松" title="鹿岛万象天地2019温州七都半程马拉松"><img src="http://p2.ifengimg.com/fck/2019_14/0ba5be574c505de_w470_h262.gif" alt=""></a></dt>
+                                <dd class="mCSB_container-dd"><a href="javascript:;" class="mCSB_container-link" alt="鹿岛万象天地2019温州七都半程马拉松" title="鹿岛万象天地2019温州七都半程马拉松"><span>鹿岛万象天地2019温州七都半程马拉松</span></a></dd>
+                            </dl>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--项目赏析-->
+<section class="appreciation minWidths">
+    <div class="appreciation-container">
+        <div class="public-title">
+            <img src="./img/appreciation.png" alt="新闻发布会" title="新闻发布会">
+        </div>
+        <ul class="appreciation-ul plr">
+            <li class="appreciation-ul-content">
+                <div class="content-left">
+                    <h3 class="content-left-title">新闻发布会</h3>
+                    <p class="content-left-txt">4月4日，鹿岛万象天地2019温州七都半程马拉松新闻发布会正式召开。发布会上，组委会公布了鹿岛万象天地2019温州七都半程马拉松的赛况说明、赛道等赛事元素。</p>
+                    <p class="content-left-txt textIndent">介绍温州七都半程马拉松筹备情况:</p>
+                    <p class="content-left-txt">鹿城区文化和广电旅游体育局副局长王正良讲话</p>
+                    <p class="content-left-txt">鹿城区七都街道党工委副书记魏葆春</p>
+                    <p class="content-left-txt">温州华润置地温州公司总经理仉天翔讲话</p>
+                    <p class="content-left-txt">跑团代表伍秀玲发言</p>
+                    <p class="content-left-txt">上海沐跑信息科技有限公司总经理李玉新</p>
+                </div>
+                <div class="content-right">
+                    <img class="content-right-img" src="img/8d75adab7ac3c90_w791_h537.jpg" alt="鹿岛万象天地2019温州七都半程马拉松新闻发布会正式召开" title="鹿岛万象天地2019温州七都半程马拉松新闻发布会正式召开"/>
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-right cols">
+                    <img class="content-right-img" src="http://p2.ifengimg.com/fck/2019_14/fcc3174ad69434c_w1080_h573.jpg" alt="鹿岛万象天地2019温州七都半程马拉-赛事概况" title="鹿岛万象天地2019温州七都半程马拉-赛事概况">
+                    <img class="content-right-img" src="http://p2.ifengimg.com/fck/2019_14/45c95848b9e75f8_w1080_h579.jpg" alt="鹿岛万象天地2019温州七都半程马拉-赛事概况" title="鹿岛万象天地2019温州七都半程马拉-赛事概况">
+                </div>
+                <div class="content-left">
+                    <h3 class="content-left-title">赛事路线</h3>
+                    <p class="content-left-txt">此次马拉松赛事以“逐梦七都，活力同行”为主题，竞赛项目分为半程马拉松（21.0975公里）和5公里健康跑（5公里），此次马拉松赛事规模控制在4000名选手以内，其中半程马拉松选手2500名，5公里健康跑选手1500名。赛事线路的设置简约而不简单，让跑者既能体验繁华的都市画卷，又置身恬然的田园风光，带来独特的赛事体验。</p>
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-left">
+                    <h3 class="content-left-title">赛事概况</h3>
+                    <p class="content-left-txt">赛事组委会在选手报名、赛道功能、赛道补给、赛后服务等多个方面进行优化，自起点开始每5公里设置一个饮料站，两个饮料站中间设置一个饮水/用水站，赛道上按照中国马拉松赛事标准设立公里指示牌、引导指示牌、分流指示牌、医疗补水站、饮用水站及卫生间。</p>
+                </div>
+                <div class="content-right">
+                    <img class="content-right-img" src="http://p2.ifengimg.com/fck/2019_14/bfa35486a077dc2_w894_h507.jpg" alt="跑团赛事状况" title="跑团赛事状况">
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-right">
+                    <img class="content-right-img" src="http://p2.ifengimg.com/fck/2019_14/6e506bf208f7e00_w684_h455.jpg" alt="跑团参赛标准" title="跑团参赛标准">
+                </div>
+                <div class="content-left">
+                    <h3 class="content-left-title">参赛条件</h3>
+                    <p class="content-left-txt">赛事采取跑团大战的形式，让参赛队伍在速度或人气上进行PK，丰富赛事形式，以多样的形式演绎竞赛与友谊。</p>
+                    <p class="content-left-txt textIndent">跑团大战含速度大战和人气大战两部分，想参与就必须满足以下条件：</p>
+                    <p class="content-left-txt">1.每个跑团可以组多个队伍</p>
+                    <p class="content-left-txt">2.每个队伍报名人数10人</p>
+                    <p class="content-left-txt">3.每个队伍最少7人完赛</p>
+                    <p class="content-left-txt">4.每个跑团中至少有1名异性有完赛有成绩</p>
+                    <p class="content-left-txt">5.第一名跑团奖金两万具体见竞赛规程</p>
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-left">
+                    <h3 class="content-left-title">报名通道</h3>
+                    <p class="content-left-txt">赛事期间还将与全国及温州本地公益组织共同合作，举办“有爱无碍”5公里公益跑活动，将邀请30名温州及周边地区自闭症儿童与30位陪跑志愿者一起踏上七都半程马拉松的赛道，进行“有爱无碍”5公里公益跑。</p>
+                    <p class="content-left-txt">鹿岛万象天地2019温州七都半程马拉松赛选手报名工作于4月5日启动。</p>
+                    <p  class="content-left-txt">选手可通过官方网站：http://qidumarathon.woyaopao.com或指定移动端<a href="http://baoming.woyaopao.com/woyaopao/mobileAction.mp?action=getShare&modeid=null&modetype=index&traminfoid=null" alt="我要跑APP" title="我要跑APP">【我要跑APP】</a>参与报名，具体详情可关注赛事官方公众号“温州鹿岛万象天地七都半程马拉松”。</p>
+                </div>
+                <div class="content-right">
+                    <img class="content-right-img" src="http://p2.ifengimg.com/fck/2019_14/16db0baceaf1a22_w1080_h1080.jpg" alt="我要跑APP" title="我要跑APP">
+                </div>
+            </li>
+            <li class="appreciation-ul-content">
+                <div class="content-right">
+                    <img class="content-right-img" src="http://p2.ifengimg.com/fck/2019_14/60da6cf76c511fd_w568_h350.jpg" alt="注意事项" title="注意事项">
+                </div>
+                <div class="content-left">
+                    <h3 class="content-left-title">注意事项</h3>
+                    <p class="content-left-txt">为提升赛事后勤保障，赛事当天大巴和公交赛事接驳，参赛队员和工作人员，请大家不要自行开车前往七都。</p>
+                    <p class="content-left-txt textIndent">五月天，相聚七都岛，奔跑在环岛赛道上，水天风光尽收眼底。</p>
+                    <p class="content-left-txt">5月12日，鹿岛万象天地2019温州七都半程马拉松，我们不见不散！</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>
+<!--高清图集-->
+<section class="Hd-atlas minWidths">
+    <div class="Hd-atlas-container">
+        <div class="public-title">
+            <img src="img/HD-Aggregate.png" alt="">
+        </div>
+        <div class="swipers">
+            <ul class="swiper-wrapper">
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="http://p2.ifengimg.com/fck/2019_14/45d077be4697db1_w995_h734.jpg" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="http://p2.ifengimg.com/fck/2019_14/29b5b046a29f8b5_w1080_h809.jpg" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="http://p2.ifengimg.com/fck/2019_14/9964550ba20a1b8_w1080_h810.jpg" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="http://p2.ifengimg.com/fck/2019_14/e23b686f77755cd_w1080_h820.jpg" alt="">
+                </li>
+                <li class="swiper-slide">
+                    <img class="swipers-img" src="http://p2.ifengimg.com/fck/2019_14/8fcb487c97e458a_w1080_h809.jpg" alt="">
+                </li>
+            </ul>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-prev swiper_btn"></div>
+            <div class="swiper-button-next swiper_btn"></div>
+        </div>
+    </div>
+</section>
+<footer class="footer minWidths">
+    <div class="newCityFooter">
+        <span style="color:red;">凤凰网城市联盟监督电话：010-60675241&nbsp;&nbsp;监督及意见反馈邮箱：gaoshan@ifeng.com</span>
+    </div>
+    <div class="footlink">
+        <div class="fk_l">
+            <a href="http://www.ifeng.com/corp/about/intro/" target="_blank">凤凰新媒体介绍</a>
+            <a href="http://ir.ifeng.com/" target="_blank">投资者关系 Investor Relations</a>
+            <a href="http://www.ifeng.com/corp/ad/" target="_blank">广告服务</a>
+            <a href="http://career.ifeng.com/" target="_blank">诚征英才</a>
+            <a href="http://www.ifeng.com/corp/privacy/" target="_blank">保护隐私权</a>
+            <a href="http://www.ifeng.com/corp/exemption/" target="_blank">免责条款</a>
+            <a href="#" target="_blank">法律顾问</a>
+            <a href="http://www.ifeng.com/corp/feedback/" target="_blank">意见反馈</a>
+            <a href="http://phtv.ifeng.com/intro/" target="_blank">凤凰卫视介绍</a>
+        </div>
+    </div>
+    <div class="copyright">
+        <span>凤凰新媒体&nbsp;版权所有</span>&nbsp;&nbsp;&nbsp;&nbsp;Copyright © 2017 Phoenix New Media Limited All Rights Reserved.
+    </div>
+</footer>
+<script >
+    if(typeof jQuery == 'undefined') {
+        document.write('<script type="text/javascript" src="js/jquery-3.3.1.min.js"><\/script>');
+    }
+</script>
+<script src="js/swiper-4.5.0.min.js"></script>
+<script src="js/compatibility.js"></script>
+<script src="js/special-public-detail.js"></script>
+<script src="js/backTop.js"></script>
+</body>
+</html>

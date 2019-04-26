@@ -1,0 +1,184 @@
+.minWidths {
+    min-width: 1000px;
+}
+.parlor-banner {
+    background: url(../img/parlor-banner1.jpg) center top no-repeat;
+    height: 364px;
+}
+.tips,
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.tips {
+    display: flex;
+    height: 250px;
+}
+.tips-left {
+    width: 470px;
+    margin-right: 1px;
+}
+.tips-left img {
+    width: 100%;
+    height: 100%;
+}
+.tips-right {
+    flex-grow: 1;
+    border: solid 1px #e0e0e0;
+    border-top: 2px solid #f54343;
+    margin: 0 auto;
+    text-align: center;
+}
+.tips-right .title {
+    font-size: 20px;
+    text-align: center;
+    font-family: "microsoft yahei";
+    width: 400px;
+    margin: 25px auto 0;
+    border-bottom: solid 1px #e0e0e0;
+    padding-bottom: 20px;
+    color: #333;
+    font-weight: 700;
+}
+.tips-right .times {
+    width: 411px;
+    padding-top: 18px;
+    display: block;
+    margin: auto;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: justify;
+    color: #000;
+}
+.tips-right .txt {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    word-wrap: break-word;
+    font-size: 14px;
+}
+.tips-right .times b {
+    font-weight: bold;
+}
+.tips-right .times a {
+    color: #f54343;
+}
+.tips-right .times a:hover {
+    text-decoration: underline;
+}
+/*左侧栏目*/
+.parlor-left {
+    width: 655px;
+    float: left;
+    margin-right: 70px;
+}
+.titleLine {
+    background: url(../img/old_title_bg.gif) left 5px no-repeat;
+    width: 100%;
+    height: 27px;
+}
+.list-li {
+    height: 200px;
+    margin: 20px 0;
+    position: relative;
+    border-bottom: 1px dashed #ddd;
+}
+.imgUrl {
+    width: 250px;
+    height: 180px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.imgUrl img {
+    width: 100%;
+    height: 100%;
+}
+.list-li-txt {
+    padding-left: 270px;
+}
+.list-li-txt a {
+    font-size: 20px;
+    font-weight: 700;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    white-space: normal; !important;
+    word-wrap: break-word;
+    color: #333;
+}
+.tips-right .title:hover,
+.list-li-txt a:hover {
+    color: #ba2636;
+    text-decoration: underline;
+}
+.list-li-txt .txt-times {
+    color: #818181;
+    font-size: 12px;
+    overflow: hidden;
+    padding: 10px 5px;
+}
+.list-li-txt .txt-times b {
+    font-weight: 700;
+    font-size: 12px;
+}
+.list-li-txt-p {
+    overflow: hidden;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: justify;
+    color: #818181;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    white-space: normal; !important;
+    word-wrap: break-word;
+}
+.list-li-txt .link {
+    font-size: 14px;
+    color: #f54343;
+    font-weight: normal;
+}
+/*右侧栏目*/
+.parlor-right {
+    float: left;
+    width: 275px;
+}
+.lm-logo-ul {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+/*图片自己设置大小*/
+.lm-logo-li {
+    padding: 10px 0;
+}
+/*右侧标题*/
+.parlor-right-title {
+    background: url(../img/item_bg.gif) right 5px no-repeat;
+    height: 21px;
+    color: #f54343;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "微软雅黑";
+}
+.lm-logo .parlor-right-title {
+    background: none;
+}
+.Column p {
+    text-indent: 20px;
+    line-height: 20px;
+    font-size: 12px;
+}
+.creative-ul li {
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+.creative-ul b {
+    font-weight: 700;
+}
+.aboutUs li {
+    font-size: 12px;
+}

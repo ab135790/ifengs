@@ -1,0 +1,182 @@
+.minWidths {
+    min-width: 1000px;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-top: 10px;
+}
+/*视频赏析*/
+.parlor-detail-head {
+    background-image: url(../img/parlor-detail-01-1.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    height: 809px;
+}
+.parlor-detail-head-top {
+    position: relative;
+    height: 300px;
+}
+.head-top-title {
+    position: absolute;
+    top: 189px;
+    right: 0;
+    color: #f5f5f5;
+    font-size: 24px;
+    font-weight: bold;
+    width: 360px;
+}
+.video-content {
+    height: 466px;
+}
+.video-left {
+    float: left;
+    width: 700px;
+}
+.video-right {
+    float: left;
+    width: 300px;
+    background: #e2e5ec;
+}
+.video-right-title {
+    height: 48px;
+    color: #fff;
+    text-align: center;
+    line-height: 48px;
+    font-size: 18px;
+    background: #e84443;
+    font-family: Microsoft Yahei;
+    letter-spacing: 3px;
+}
+.video-right-ul {
+    overflow-y: scroll;
+    height: 418px;
+    padding: 0 10px;
+}
+.video-right-ul li {
+    background: url(../img/vico_r3_c4.png) no-repeat 0 26px;
+    line-height: 24px;
+    color: #2d2d2d;
+    cursor: pointer;
+    font-family: 'Microsoft Yahei';
+    font-size: 16px;
+    padding: 13px 0 13px 30px;
+    border-bottom: 1px solid #736a5e;
+}
+.video-right-link {
+    color: #333;
+}
+.video-right-link:hover {
+    color: #736a5e;
+}
+/*本期介绍*/
+.parlor-detail-introduced {
+    height: 219px;
+    background: url(../img/parlor-detail-01-2.jpg) no-repeat center;
+}
+.parlor-detail-introduced p{
+    margin-left: 170px;
+    margin-top: 45px;
+    font-size: 16px;
+    line-height: 1.7;
+}
+.parlor-detail-introduced-txt {
+    -webkit-line-clamp: 5;
+}
+/*花絮图集*/
+.parlor-detail-tidbits {
+    height: 653px;
+    background: url(../img/parlor-detail-01-3.png) no-repeat center top;
+}
+.parlor-detail-tidbits-ul {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    padding-top: 85px;
+}
+.parlor-detail-tidbits-ul .parlor-detail-tidbits-li {
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+.parlor-detail-tidbits-ul img {
+    width:100%;
+}
+.parlor-detail-tidbits-li {
+    width: 288px;
+    height: 266px;
+}
+.parlor-detail-tidbits-li3 {
+    width: 571px;
+    height: 266px;
+}
+.parlor-detail-tidbits-li4 {
+    width: 424px;
+    position: absolute;
+    right: 0;
+    top: 161px;
+}
+/*往期回顾*/
+.parlor-detail-review {
+    height: 422px;
+    background: url(../img/parlor-detail-01-4.png) no-repeat center top;
+    padding-top: 85px;
+}
+.parlor-detail-review-ul {
+    padding-left: 10px;
+}
+.swiper-button-left,
+.swiper-button-right {
+    background-color: rgba(0, 0, 0, .5);
+    background-size: 50%;
+    position: absolute;
+    display: none !important;
+}
+.swiper-button-left {
+    left: 0;
+}
+.swiper-button-right {
+    right: 0;
+}
+.swiper-container:hover div.swiper-button-left,
+.swiper-container:hover div.swiper-button-right{
+    display: block!important;
+}
+.swiper-button-left:hover,
+.swiper-button-right:hover {
+    background-color: rgba(0, 0, 0, .8);
+}
+.parlor-detail-review-img,
+.parlor-detail-review-txt{
+    display: block;
+    text-align: center;
+}
+.parlor-detail-review-img {
+    width: 288px;
+    height: 266px;
+}
+.parlor-detail-review-img img {
+    width: 100%;
+    height: 100%;
+}
+.parlor-detail-review-txt {
+    font-size: 14px;
+    color: #333;
+    margin-top: 10px;
+}
+.parlor-detail-review-txt:hover {
+    text-decoration: underline;
+}
+/*栏目介绍*/
+.parlor-detail-column {
+    height: 287px;
+    background: url(../img/parlor-detail-01-5.jpg) no-repeat center;
+    padding-top: 50px;
+}
+.parlor-detail-column p{
+    width: 600px;
+    font-size: 16px;
+    color: #262626;
+    line-height: 2;
+    padding-left:10px;
+}

@@ -1,0 +1,51 @@
+.tops {
+    position: fixed;
+    width: 54px;
+    height: 275px;
+    right: 0;
+    top: 270px;
+    z-index: 100;
+    flex-wrap: wrap;
+    display: none;
+}
+.tops li {
+    width: 54px;
+    height: 54px;
+    border-bottom: 1px solid #ddd;
+    position: relative;
+    box-sizing: content-box;
+}
+.linksIcon {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 54px;
+    height: 54px;
+    background-color: rgba(3, 3, 3, .6);
+    transition: all .3s;
+    overflow: hidden;
+    color: #f5f5f5;
+    font: 16px/36px "微软雅黑";
+}
+.linksIcon:hover .txt {
+    right: 10px;
+}
+.linksIcon:hover {
+    width: 124px;
+    background-color: rgb(174, 28, 28);
+}
+.linksIcon .iconfont {
+    display: inline-block;
+    color: #f5f5f5;
+    font-size: 36px;
+    padding: 9px;
+}
+.linksIcon .txt {
+    position: absolute;
+    right: -80px;
+    top: 9px;
+    transition: all .3s;
+}
+.activeTops {
+    display: flex;
+}

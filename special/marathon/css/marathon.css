@@ -1,0 +1,18 @@
+.marathon-banner {
+    width: 100%;
+    height: 890px;
+    margin: 0 auto;
+    background: url(../img/marathon-banner1.jpg) no-repeat center;
+}
+.textIndent {
+    text-indent: 0;
+}
+.content-right.cols {
+    flex-direction: column;
+}
+.minWidths {
+    min-width: 1200px;
+}
+.plr {
+    padding: 0 10px;
+}

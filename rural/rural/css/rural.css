@@ -1,0 +1,384 @@
+a {
+    color: #333;
+}
+.minWidths {
+    min-width: 1000px;
+}
+.rural-banner {
+    background: url(../img/rural-banner.jpg) no-repeat top center;
+    height: 650px;
+}
+.show,
+.database,
+.policy,
+.readAFew,
+.news,
+.logo {
+    width: 1000px;
+    margin: 0 auto;
+}
+.logo {
+    position: relative;
+}
+#pullDown {
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    cursor: pointer;
+    animation: upDown 1s infinite;
+    -webkit-animation: upDown 1s infinite;
+}
+@keyframes upDown {
+    0% {
+        bottom: -20px
+    }
+    50% {
+        bottom: -15px
+    }
+    100% {
+        bottom: -20px
+    }
+}
+.logolist {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 60px;
+    overflow: hidden;
+}
+/*箭头下标结束的旋转*/
+.rotatend {
+    transition: all 0.1s ease;
+    transform: rotate(0deg);
+}
+/*箭头下标开始向下的旋转*/
+.rotates {
+    transition: all 0.1s ease;
+    transform: rotate(180deg);
+}
+.logolist .list {
+    width: 20%;
+    text-align: center;
+}
+.logolist .list img {
+    width: 150px;
+    height: 50px;
+}
+.flex-control-nav {
+    width: auto;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+.flex-control-nav li {
+    margin: 2px;
+    float: left;
+    zoom: 1;
+}
+.flex-control-paging li a {
+    width: 7px;
+    height: 7px;
+    display: block;
+    background: #fff;
+    background: rgba(255, 255, 255, 1);
+    cursor: pointer;
+    text-indent: -9999px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+.flex-control-paging li a.flex-active {
+    width: 5px;
+    height: 5px;
+    background: transparent;
+    cursor: default;
+    border: solid 1px #fff;
+    box-sizing: content-box;
+}
+.title {
+    margin-bottom: 30px;
+}
+.title img {
+    height: 55px;
+}
+.news-left {
+    width: 370px;
+    float: left;
+}
+.news-title {
+    font: normal 26px/26px "microsoft yahei";
+    height: 26px;
+    margin-bottom: 20px;
+}
+
+.news-title img {
+    width: 120px;
+    height: 15px;
+    margin-top: 10px;
+}
+.news-title .news-title-img {
+    width: 173px;
+}
+.news-top li {
+    padding-left: 5px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+.content-left-title,
+.new-list a,
+.news-top a {
+    font: normal 24px/2 "microsoft yahei";
+    color: #252525;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+}
+.content-left-title:hover,
+.new-list a:hover,
+.news-top a:hover {
+    color:#333;
+    text-decoration: underline;
+}
+p {
+    color: #111;
+    line-height: 1.5;
+    font-size: 14px;
+}
+.news-top p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    word-wrap: break-word;
+}
+.new-list {
+    margin-top: 5px
+}
+.new-list li{
+    background: url(../img/dot.png) no-repeat 5px;
+    padding-left: 20px;
+    margin: 8px 0;
+}
+.new-list a {
+    font: normal 16px/1.5 "microsoft yahei";
+}
+.news-right {
+    float: left;
+    width: 600px;
+}
+.flexslider {
+    width: 600px;
+    height: 350px;
+}
+.slides-li {
+    position: relative;
+}
+.flexslider .slides img {
+    width: 600px;
+    height: 350px;
+}
+.show-content-list .slides h2,
+.slides-txt {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 45px;
+    background: rgba(0,0,0,.8);
+    padding: .6em 5%;
+    font-size: 16px;
+    line-height: 30px;
+    color: #fff;
+    font-weight: 800;
+}
+/*数独开发区*/
+.read-left {
+    position: relative;
+    width: 275px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    float: left;
+    margin-right: 45px;
+    border: 1px solid #dbdbdb;
+    padding: 20px 0;
+}
+.tip {
+    width: 10px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    right: -10px;
+    margin-top: -10px;
+    background: url(../img/arrow.jpg) right no-repeat;
+    z-index: 10;
+}
+.read-right {
+    height: 550px;
+    overflow-y: scroll;
+}
+.policy-left {
+    width: 550px;
+    float: left;
+}
+.lead {
+    margin: 20px 30px 0 0;
+    width: 590px;
+    background: #1676da;
+    z-index: 10;
+    position: absolute;
+    padding: 20px 30px;
+}
+.lead a {
+    font: normal 20px/2 "microsoft yahei";
+    color: #fff;
+    width: 100%;
+}
+.lead p {
+    line-height: 1.5;
+    font-size: 14px;
+    color: #eee;
+    -webkit-line-clamp: 2;
+}
+.lead-bottom {
+    margin-top:160px;
+    display: flex;
+    justify-content: space-between;
+}
+.lead-bottom li {
+    position: relative;
+    width: 265px;
+    height: 265px;
+}
+.lead-bottom a,
+.lead-bottom img {
+    width: 100%;
+    height: 100%;
+    display:block;
+}
+.imgbox h2,
+.lead-bottom h2 {
+    width: 100%;
+    padding: .6em 5px;
+    background: rgba(0,0,0,.8);
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    font-size: 14px;
+    text-align: left;
+    color: #fff;
+}
+.policy-right {
+    float: left;
+    width: 430px;
+}
+.imgbox {
+    position: relative;
+    width: 430px;
+    height: 255px;
+}
+.imgbox a {
+    width: 100%;
+    height: 100%;
+}
+.imgbox img{
+    width: 100%;
+    height: 100%;
+}
+.content-left {
+    width: 335px;
+    float: left;
+    background: url(../img/red_circle.png) no-repeat right 235px;
+    padding: 20px 20px 0 0;
+}
+.content-left img {
+    width: 335px;
+    height: 225px;
+}
+.content-left-title p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    word-wrap: break-word;
+}
+.content-center {
+    width: 242px;
+    float: left;
+}
+.content-center img {
+    width: 242px;
+    height: 486px;
+}
+.content-right {
+    width: 353px;
+    float: left;
+    padding-top: 20px;
+}
+.news-right .slides-li a,
+.show-content-list .slides li a{
+    position: relative;
+}
+.show-content {
+    background: url(../img/blue_ground.png) no-repeat right bottom;
+    position: relative;
+    height: 600px;
+}
+.show-content-list {
+    position: absolute;
+    left: 5px;
+    top: 25px;
+    width: 860px;
+}
+.show-content-list .slides {
+    position: relative;
+}
+.show-content-list .flexslider {
+    width: 860px;
+    height: 542px;
+    margin: 0;
+    border: none;
+    border-radius: 0;
+}
+.show-content-list .flexslider img {
+    width: 860px;
+    height: 542px;
+    position: relative;
+}
+/*轮播左右箭头样式*/
+.flex-direction-nav a {
+    text-decoration: none;
+    background: url(../img/black_LR.png) no-repeat 0 0;
+    display: block;
+    width: 30px;
+    height: 60px;
+    margin: -30px 0 0;
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    overflow: hidden;
+    opacity: 0;
+    cursor: pointer;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.flex-direction-nav a.flex-next:before,
+.flex-direction-nav a:before {
+    content: ''
+}
+.flex-direction-nav a.flex-next {
+    background-position: 100% 0;
+}
+.flex-direction-nav .flex-next {
+    right: 0;
+}
